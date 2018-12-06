@@ -1,5 +1,5 @@
 # audio-splitting-sentence
-Split the single audio into multiple based on sentence
+Split the single audio into multiple audios based on each sentence
 
 This is used to cut the audio based on sentences spoken in the audio.
 It can be used for all language audios.
